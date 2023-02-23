@@ -31,20 +31,17 @@
 	<nav id="menu">
 		<ul class="links">
 			<li><a href="/">Home</a></li>
-			<li><a href="#main">Browse Events</a></li>
 			<li><a href="#two">Try out for free</a></li>
 			<li><a href="#rankings">Rankings</a></li>
-			<li><a href="#products">Products and Services</a></li>
-			<li><a href="#shop/">Online Shop</a></li>
 			<li>
-				<a href="http://set.sportdata.org/wp/index.php/category/downloads/">Software Downloads</a>
+				<a href="/">Software Downloads</a>
 			</li>
 		</ul>
-		<!-- <ul class="actions stacked">
-            <li><a href="#" class="button primary fit">Get Started</a></li>
-            <li><a href="#" class="button fit">Log In</a></li>
+		<ul class="actions stacked">
+            <li><a href="/accounts/register" class="button primary fit">Get Started</a></li>
+            <li><a href="/accounts/login" class="button fit">Log In</a></li>
         </ul>
-        -->
+        
 	</nav>
 
 	<!-- Banner -->
@@ -60,7 +57,7 @@
 					DEVICES, APPS, CUSTOM DEVELOPMENT, AND LOTS OF OTHER SYSTEMS AND SERVICES
 				</p>
 				<ul class="actions">
-					<li><a href="#main" class="button next scrolly">BROWSE EVENTS</a></li>
+					<li><a href="/ " class="button next scrolly">BROWSE EVENTS</a></li>
 				</ul>
 			</div>
 		</div>
@@ -81,16 +78,6 @@
 				</span>
 				<header class="major">
 					<h3>Event and Ranking App</h3>
-
-					<h4>
-						<a href="https://play.google.com/store/apps/details?id=org.sportsid.app" target="_blank"
-							><i class="fa fa-android">&nbsp;Android</i></a
-						>
-						&nbsp;&nbsp;&nbsp;
-						<a href="https://apps.apple.com/at/app/sportsid/id1533214164" target="_blank"
-							><i class="fa fa-apple">&nbsp;Apple iOS</i></a
-						>
-					</h4>
 				</header>
 			</article>
 			<article>
@@ -99,7 +86,7 @@
 				</span>
 				<header class="major">
 					<h3>
-						<a href="https://www.sportdata.org/wkf/set-online/?subsystem_select=prod" class="link"
+						<a href="/" class="link"
 							>WKF</a
 						>
 					</h3>
@@ -113,7 +100,7 @@
 				<header class="major">
 					<h3>
 						<a
-							href="https://www.sportdata.org/boxing/set-online/?subsystem_select=prod"
+							href="/"
 							class="link">IBA</a
 						>
 					</h3>
@@ -127,7 +114,7 @@
 				<header class="major">
 					<h3>
 						<a
-							href="https://www.sportdata.org/karate/set-online/?subsystem_select=prod"
+							href="/"
 							class="link">KARATE</a
 						>
 					</h3>
@@ -141,7 +128,7 @@
 				</span>
 				<header class="major">
 					<h3>
-						<a href="https://www.sportdata.org/judo/set-online/?subsystem_select=prod" class="link"
+						<a href="/" class="link"
 							>JUDO</a
 						>
 					</h3>
@@ -156,7 +143,7 @@
 				<header class="major">
 					<h3>
 						<a
-							href="https://www.sportdata.org/fijlkamjudo/set-online/?subsystem_select=prod"
+							href="/"
 							class="link">FIJLKAM JUDO</a
 						>
 					</h3>
@@ -170,7 +157,7 @@
 				<header class="major">
 					<h3>
 						<a
-							href="https://www.sportdata.org/fijlkam/set-online/?subsystem_select=prod"
+							href="/"
 							class="link">FIJLKAM KARATE</a
 						>
 					</h3>
@@ -183,7 +170,7 @@
 				</span>
 				<header class="major">
 					<h3>
-						<a href="https://www.sportdata.org/csen/set-online/?subsystem_select=prod" class="link"
+						<a href="/" class="link"
 							>CSEN</a
 						>
 					</h3>
@@ -197,7 +184,7 @@
 				<header class="major">
 					<h3>
 						<a
-							href="https://www.sportdata.org/gymnastics/set-online/?subsystem_select=prod"
+							href="/"
 							class="link">Gymnastics</a
 						>
 					</h3>
@@ -209,47 +196,75 @@
 					<img src="https://www.sportdata.org/mainpage2018/images/esport-main.jpg" alt="" />
 				</span>
 				<header class="major">
-					<h3><a href="https://www.sportdata.org/esports" class="link">E-Sports Events</a></h3>
+					<h3><a href="/" class="link">E-Sports Events</a></h3>
 					<p>E-Sports Events</p>
 				</header>
 			</article>
 		</section>
 
-        	<!-- Two -->
-							<section id="two">
-								<div class="inner">
-									<header class="major">
-										<h2>TRY OUT FOR FREE</h2>
-									</header>
-									<p>SportManager allows teams, clubs and event managers to enter, administrate and monitor registrations quickly and comfortable! 
-                                        SportManager offers you the chance to manage all event activities paperless.</p>
-									<ul class="actions">
-										<li><a href="/test" class="button next">TEST SYSTEM</a></li>
-									</ul>
-								</div>
-							</section>
+		<!-- Two -->
+		<section id="two">
+			<div class="inner">
+				<header class="major">
+					<h2>TRY OUT FOR FREE</h2>
+				</header>
+				<p>
+					SportManager allows teams, clubs and event managers to enter, administrate and monitor
+					registrations quickly and comfortable! SportManager offers you the chance to manage all
+					event activities paperless.
+				</p>
+				<ul class="actions">
+					<li><a href="/" class="button next">TEST SYSTEM</a></li>
+				</ul>
+			</div>
+		</section>
 
-
-                            <section id="rankings">
-								<div class="inner">
-									<header class="major">
-										<h2>RANKINGS</h2>
-									</header>
-									<p>You are looking for a custom ranking system for your Federation, Club or Organization? We can provide a feature rich and adjustable ranking system for your events, in order to save you time and money.</p>
-									<ul class="actions">
-										<li><a href="/product/custom-ranking-system/" class="button next">Need a custom ranking?</a></li>
-									</ul>
-									<ul class="actions stacked">
-										<li><a href="https://www.sportdata.org/etournament.html#rankings" class="button fit">E-Tournament Rankings</a></li>
-										<li><a href="http://setopen.sportdata.org/wkfranking" class="button primary  fit">WKF (World Karate Federation)</a></li>
-										<li><a href="http://setopen.sportdata.org/wakoranking" class="button fit">WAKO (World Association of Kickboxing Organizations)</a></li>
-										<li><a href="http://setopen.sportdata.org/mmaranking" class="button primary fit">GAMMA</a></li>
-										<li><a href="http://setopen.sportdata.org/wakopanamranking" class="button fit">WAKO PANAM</a></li>
-									    <li><a href="http://setopen.sportdata.org/csencinofiliaranking" class="button fit">CSEN Cinofilia</a></li>
-									</ul>
-									
-								</div>
-							</section>
+		<section id="rankings">
+			<div class="inner">
+				<header class="major">
+					<h2>RANKINGS</h2>
+				</header>
+				<p>
+					You are looking for a custom ranking system for your Federation, Club or Organization? We
+					can provide a feature rich and adjustable ranking system for your events, in order to save
+					you time and money.
+				</p>
+				<ul class="actions">
+					<li>
+						<a href="/product/custom-ranking-system" class="button next">Need a custom ranking?</a>
+					</li>
+				</ul>
+				<ul class="actions stacked">
+					<li>
+						<a href="https://www.sportdata.org/etournament.html#rankings" class="button fit"
+							>E-Tournament Rankings</a
+						>
+					</li>
+					<li>
+						<a href="http://setopen.sportdata.org/wkfranking" class="button primary  fit"
+							>WKF (World Karate Federation)</a
+						>
+					</li>
+					<li>
+						<a href="http://setopen.sportdata.org/wakoranking" class="button fit"
+							>WAKO (World Association of Kickboxing Organizations)</a
+						>
+					</li>
+					<li>
+						<a href="http://setopen.sportdata.org/mmaranking" class="button primary fit">GAMMA</a>
+					</li>
+					<li>
+						<a href="http://setopen.sportdata.org/wakopanamranking" class="button fit">WAKO PANAM</a
+						>
+					</li>
+					<li>
+						<a href="http://setopen.sportdata.org/csencinofiliaranking" class="button fit"
+							>CSEN Cinofilia</a
+						>
+					</li>
+				</ul>
+			</div>
+		</section>
 	</div>
 </div>
 
